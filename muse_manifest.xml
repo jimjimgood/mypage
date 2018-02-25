@@ -1,0 +1,18 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sssss.com" resolutions="1x" timestamp="1519567351462">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="497818455" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="作品展示-背景c.png" crc="4199183747" seo="true" ref="index"/>
+    <file name="作品展示-标题c.png" crc="180565432" seo="true" ref="index"/>
+    <file name="作品展示-菜单c.png" crc="3768883888" seo="true" ref="index"/>
+    <file name="作品展示-搜索c.png" crc="441656707" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3764477269" seo="true" mt="1519567268809" redirect="true"/>
+</manifest>

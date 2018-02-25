@@ -1,0 +1,97 @@
+.version.index /* version checker */
+{
+	color: #00001D;
+	background-color: #AC1B57;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1280px;
+	min-height: 800px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -57px;
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#u112
+{
+	z-index: 2;
+	width: 1750px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	left: -235px;
+	position: relative;
+}
+
+#u102
+{
+	z-index: 3;
+	width: 1750px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u97
+{
+	z-index: 5;
+	width: 328px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 386px;
+	left: 694px;
+}
+
+#u92
+{
+	z-index: 7;
+	width: 40px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 119px;
+	left: 306px;
+}
+
+#u87
+{
+	z-index: 9;
+	width: 49px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 119px;
+	left: 1372px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1280px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
